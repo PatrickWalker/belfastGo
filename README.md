@@ -29,3 +29,4 @@ Thanks to [Vancouver Go](https://github.com/cstyan/vancouverGo) for the inspirat
 | [Nebulon](https://nebulon.com/) |Cloud defined storage | ?/9/6 | embedded / backend / api |
 | [Peak6](https://www.peak6.com/careers/open-positions/?office=Belfast) | Investment company with range of companies/products | ? | crypto/backend/dev tooling/devops | 
 | [Teamwork](https://careers.teamwork.com/) | Collaboration Software| 200/30/40 | backend/api| 
+| [Puppet](https://puppet.com/) |Vulnerability remediation, Compliance| 500/50/10 | backend/api|
