@@ -30,10 +30,12 @@ Thanks to [Vancouver Go](https://github.com/cstyan/vancouverGo) for the inspirat
 | Company                                                               | Description                                         | Size/Local/Go Devs. | Type of Work                      |
 | --------------------------------------------------------------------- | --------------------------------------------------- | ------------------- | --------------------------------- |
 | [Cynalytica](https://cynalytica.com/)                                 | Cybersecurity products                              | 11/7/4              | backend / apis / devops           |
+| [Daily Pay](https://dailypay.com/)                                 | On Demand Pay Provider                              | ?/?/?              |            |
 | [Flexera](https://www.flexera.com/about-us/careers.html)              | IT / software assest mgmt                           | ?/?/?               | ?                                 |
+| [Harness](harness.io)                                              | CI/CD Platform                                | 700/30/10               | ?                                 |
+| [LightSpeed](lightspeedhq.co.uk)                                              | Payments & eCommerce                                | ?/?/?               | ?                                 |
 | [Nebulon](https://nebulon.com/)                                       | Cloud defined storage                               | ?/9/6               | embedded / backend / api          |
 | [Peak6](https://www.peak6.com/careers/open-positions/?office=Belfast) | Investment company with range of companies/products | ?/?/?               | crypto/backend/dev tooling/devops |
 | [Puppet](https://puppet.com/)                                         | Configuration management & automation               | 500/50/10           | backend/api                       |
-| [ShopKeep](shopkeep.com)                                              | Payments & eCommerce                                | ?/?/?               | ?                                 |
 | [Teamwork](https://careers.teamwork.com/)                             | Collaboration Software                              | 200/30/40           | backend/api                       |
 | [Whitehat](https://www.whitehatsec.com/company/careers/#anchor)       | Cybersecurity                                       | ?/?/?               |                                   |
