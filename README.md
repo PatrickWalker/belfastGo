@@ -38,4 +38,5 @@ Thanks to [Vancouver Go](https://github.com/cstyan/vancouverGo) for the inspirat
 | [Peak6](https://www.peak6.com/careers/open-positions/?office=Belfast) | Investment company with range of companies/products | ?/?/?               | crypto/backend/dev tooling/devops |
 | [Puppet](https://puppet.com/)                                         | Configuration management & automation               | 500/50/10           | backend/api                       |
 | [Teamwork](https://careers.teamwork.com/)                             | Collaboration Software                              | 200/30/40           | backend/api                       |
+| [Upwind](https://www.upwind.io)       | Cybersecurity                                       | 100/6/6               | eBPF/backend/api/cli/systems |
 | [Whitehat](https://www.whitehatsec.com/company/careers/#anchor)       | Cybersecurity                                       | ?/?/?               |                                   |
